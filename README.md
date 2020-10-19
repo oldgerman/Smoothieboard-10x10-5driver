@@ -1,23 +1,18 @@
 # Smoothieboard-10x10-5driver
 Modified according to [Smoothieboard v1.1 5driver](https://www.reprap.org/wiki/Smoothieboard), a more compact and cost-effective design.
 
-## Pinout
+## Pinout & Pin capabilities
 
 官方抽不出人手绘制fritzing风格的pinout，我就当一次美工哈，根据[Smoothieboard v1.1的pinout](http://smoothieware.org/pinout)乾坤大挪移，可以与原版对比着看
 
-![](https://github.com/oldgerman/Smoothieboard-10x10-5driver/blob/master/image/Smoothie-10x10-pinout-map-mini.png)
-
-[Full size version](https://github.com/oldgerman/Smoothieboard-10x10-5driver/blob/master/image/Smoothie-10x10-pinout-map-full-size.png)
-
-## Pin capabilities
-
-![](https://github.com/oldgerman/Smoothieboard-10x10-5driver/blob/master/image/Smoothie-10x10-pin-capabilities-mini.png)
-
-[Full size version](![](https://github.com/oldgerman/Smoothieboard-10x10-5driver/blob/master/image/Smoothie-10x10-pin-capabilities-full-size.png))
+<table>
+    <td><image src = https://github.com/oldgerman/Smoothieboard-10x10-5driver/blob/master/image/Smoothie-10x10-pinout-map-mini.png></td>
+    <td><image src = https://github.com/oldgerman/Smoothieboard-10x10-5driver/blob/master/image/Smoothie-10x10-pin-capabilities-mini.png></td>
+</table>
 
 ## 详细指南
 
-见根目录的：冰沙主板制作笔记.pdf（约30MB）
+见根目录的：冰沙主板10x10制作指南.pdf（约30MB）
 
 ## 为什么要将冰沙主板缩小为10x10？
 
@@ -36,6 +31,7 @@ Modified according to [Smoothieboard v1.1 5driver](https://www.reprap.org/wiki/S
     <td><image src = https://github.com/oldgerman/Smoothieboard-10x10-5driver/blob/master/image/三周目成品(2).jpg></td>
     <td><image src = https://github.com/oldgerman/Smoothieboard-10x10-5driver/blob/master/image/三周目测试.png></td>
 </table>
+
 ## 开源硬件(OSHW)
 
 冰沙主板10x10 是开源硬件
@@ -48,4 +44,3 @@ Modified according to [Smoothieboard v1.1 5driver](https://www.reprap.org/wiki/S
 
 + The Smoothieboard creators and the [Smoothieware](http://smoothieware.org/) team
 + [捷配小可爱小路路](https://space.bilibili.com/479375532?from=search&seid=14974028502933777239)
-
