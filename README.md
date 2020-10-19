@@ -12,7 +12,7 @@ Modified according to [Smoothieboard v1.1 5driver](https://www.reprap.org/wiki/S
 
 ## 详细指南
 
-见根目录的：冰沙主板制作笔记.pdf（约30MB）
+见根目录的：冰沙主板10x10制作指南.pdf（约30MB）
 
 ## 为什么要将冰沙主板缩小为10x10？
 
