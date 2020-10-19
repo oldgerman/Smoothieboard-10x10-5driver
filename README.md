@@ -10,12 +10,6 @@ Modified according to [Smoothieboard v1.1 5driver](https://www.reprap.org/wiki/S
     <td><image src = https://github.com/oldgerman/Smoothieboard-10x10-5driver/blob/master/image/Smoothie-10x10-pin-capabilities-mini.png></td>
 </table>
 
-## 
-
-![]()
-
-[Full size version](![](https://github.com/oldgerman/Smoothieboard-10x10-5driver/blob/master/image/Smoothie-10x10-pin-capabilities-full-size.png))
-
 ## 详细指南
 
 见根目录的：冰沙主板制作笔记.pdf（约30MB）
