@@ -11,7 +11,7 @@ Modified according to [Smoothieboard v1.1 5driver](https://www.reprap.org/wiki/S
 官方抽不出人手绘制fritzing风格的pinout，我就当一次美工哈，根据[Smoothieboard v1.1的pinout](http://smoothieware.org/pinout)乾坤大挪移，可以与原版对比着看
 
 <table>
-    <td><image src = https://github.com/oldgerman/Smoothieboard-10x10-5driver/blob/master/2020-10-21/image/Smoothie-10x10-pinout-map-mini.png></td>
+    <td><image src = https://github.com/oldgerman/Smoothieboard-10x10-5driver/blob/master/2020-10-21/image/Smoothie-10x10-pinoutmap-mini.png></td>
     <td><image src = https://github.com/oldgerman/Smoothieboard-10x10-5driver/blob/master/2020-10-21/image/Smoothie-10x10-pin-capabilities-mini.png></td>
 </table>
 
