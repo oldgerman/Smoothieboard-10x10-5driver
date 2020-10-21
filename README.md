@@ -3,8 +3,8 @@ Modified according to [Smoothieboard v1.1 5driver](https://www.reprap.org/wiki/S
 
 ## 版本
 
-- 20201013 - 首次开源的版本
-- 20201021 - 加宽A5984 OUT引脚的线宽，调整对比见[此处](https://github.com/oldgerman/Smoothieboard-10x10-5driver/blob/master/2020-10-21/image/A5984-changed.png)，1013的钢网文件缺失已补上，但推荐打1021版本
+- 2020-10-13 - 首次开源的版本
+- 2020-10-21 - 加宽A5984 OUT引脚的线宽，调整对比见[此处](https://github.com/oldgerman/Smoothieboard-10x10-5driver/blob/master/2020-10-21/image/A5984-changed.png)，1013的钢网文件缺失已补上，但推荐打1021版本
 
 ## Pinout & Pin capabilities
 
@@ -28,6 +28,14 @@ Modified according to [Smoothieboard v1.1 5driver](https://www.reprap.org/wiki/S
 ## 命名问题
 
 因为商标问题，Smoothie文档明提到衍生设计不能以”Smoothie XXX“命名，因此我Oct 17号给Smoothie项目的创始人Author Wolf发送邮件并附带了源Eagle工程及下方的指南，希望官方能对此设计提出修改建议，或将该设计纳入官方的设计，或合并到Smoothieware项目中，或拒绝纳入。由于迟迟没回邮件，因此提前将本工程发布到本id的仓库中，以官方的Smoothie命名的方式，命名为Smoothieboard-10x10开源，若后续有变动，文档会添加相关说明。
+
+## Gerber文件
+
+- 外形尺寸：10x10cm
+- 层压顺序：GTL G1 G2 GBL
+- 最小孔径：0.3mm
+- 最小线宽：6mil
+- USB-C：槽孔背面Gerber文件是阻焊，厂家审核可能问开不开窗，两种都行看个人
 
 ## Pictures
 
