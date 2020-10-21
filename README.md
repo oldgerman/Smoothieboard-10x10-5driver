@@ -11,8 +11,8 @@ Modified according to [Smoothieboard v1.1 5driver](https://www.reprap.org/wiki/S
 官方抽不出人手绘制fritzing风格的pinout，我就当一次美工哈，根据[Smoothieboard v1.1的pinout](http://smoothieware.org/pinout)乾坤大挪移，可以与原版对比着看
 
 <table>
-    <td><image src = https://github.com/oldgerman/Smoothieboard-10x10-5driver/blob/master/image/Smoothie-10x10-pinout-map-mini.png></td>
-    <td><image src = https://github.com/oldgerman/Smoothieboard-10x10-5driver/blob/master/image/Smoothie-10x10-pin-capabilities-mini.png></td>
+    <td><image src = https://github.com/oldgerman/Smoothieboard-10x10-5driver/blob/master/2020-10-21/image/Smoothie-10x10-pinout-map-mini.png></td>
+    <td><image src = https://github.com/oldgerman/Smoothieboard-10x10-5driver/blob/master/2020-10-21/image/Smoothie-10x10-pin-capabilities-mini.png></td>
 </table>
 
 ## 详细指南
@@ -40,16 +40,16 @@ Modified according to [Smoothieboard v1.1 5driver](https://www.reprap.org/wiki/S
 ## Pictures
 
 <table>
-    <td><image src = https://github.com/oldgerman/Smoothieboard-10x10-5driver/blob/master/image/三周目成品(1).jpg></td>
-    <td><image src = https://github.com/oldgerman/Smoothieboard-10x10-5driver/blob/master/image/三周目成品(2).jpg></td>
-    <td><image src = https://github.com/oldgerman/Smoothieboard-10x10-5driver/blob/master/image/三周目测试.png></td>
+    <td><image src = https://github.com/oldgerman/Smoothieboard-10x10-5driver/blob/master/2020-10-13/image/三周目成品(1).jpg></td>
+    <td><image src = https://github.com/oldgerman/Smoothieboard-10x10-5driver/blob/master/2020-10-13/image/三周目成品(2).jpg></td>
+    <td><image src = https://github.com/oldgerman/Smoothieboard-10x10-5driver/blob/master/2020-10-13/image/三周目测试.png></td>
 </table>
 
 ## 开源硬件(OSHW)
 
 冰沙主板10x10 是开源硬件
 
-<table><td><img width = 100px height = 100px src = https://github.com/oldgerman/Smoothieboard-10x10-5driver/blob/master/image/Oshw-logo.png></td></table>
+<table><td><img width = 100px height = 100px src = https://github.com/oldgerman/Smoothieboard-10x10-5driver/blob/master/2020-10-13/image/Oshw-logo.png></td></table>
 
 可以在[OSHWA.org](http://www.oshwa.org/definition/)上找到OSHW定义的v1.0 
 
