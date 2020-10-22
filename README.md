@@ -47,6 +47,8 @@ Modified according to [Smoothieboard v1.1 5driver](https://www.reprap.org/wiki/S
 
 ## Pictures
 
+三周目，滞后于开源版本
+
 <table>
     <td><image src = https://github.com/oldgerman/Smoothieboard-10x10-5driver/blob/master/2020-10-13/image/三周目成品(1).jpg></td>
     <td><image src = https://github.com/oldgerman/Smoothieboard-10x10-5driver/blob/master/2020-10-13/image/三周目成品(2).jpg></td>
@@ -64,4 +66,4 @@ Modified according to [Smoothieboard v1.1 5driver](https://www.reprap.org/wiki/S
 ## Acknowledgments
 
 + The Smoothieboard creators and the [Smoothieware](http://smoothieware.org/) team
-+ [捷配小可爱小路路](https://space.bilibili.com/479375532?from=search&seid=14974028502933777239)
++ [JP小可爱小路路](https://space.bilibili.com/479375532?from=search&seid=14974028502933777239)
