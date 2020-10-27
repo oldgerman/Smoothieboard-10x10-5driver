@@ -57,7 +57,7 @@ Modified according to [Smoothieboard v1.1 5driver](https://www.reprap.org/wiki/S
 
 <table><td><img width = 100px height = 100px src = https://github.com/oldgerman/Smoothieboard-10x10-5driver/blob/master/2020-10-13/image/Oshw-logo.png></td></table>
 
-可以在[OSHWA.org](http://www.oshwa.org/definition/)上找到OSHW定义的v1.0 
+可以在[OSHWA.org](http://www.oshwa.org/definition/)上找到OSHW的定义
 
 ## Acknowledgments
 
