@@ -12,8 +12,8 @@ Modified according to [Smoothieboard v1.1 5driver](https://www.reprap.org/wiki/S
 官方抽不出人手绘制fritzing风格的pinout，我根据[Smoothieboard v1.1的pinout](http://smoothieware.org/pinout)乾坤大挪移，建议与原版对比着看
 
 <table>
-    <td><image src = 2020-10-21/image/Smoothie-10x10-pinout-map-mini.png></td>
-    <td><image src = 2020-10-21/image/Smoothie-10x10-pin-capabilities-mini.png></td>
+    <td><image src = 2020-10-21_版本/image/Smoothie-10x10-pinout-map-mini.png></td>
+    <td><image src = 2020-10-21_版本/image/Smoothie-10x10-pin-capabilities-mini.png></td>
 </table>
 
 ## 详细指南
@@ -45,29 +45,30 @@ Modified according to [Smoothieboard v1.1 5driver](https://www.reprap.org/wiki/S
 我制作的三周目版本
 
 <table>
-    <td><image src = 2020-10-13/image/三周目成品(1).jpg></td>
-    <td><image src = 2020-10-13/image/三周目成品(2).jpg></td>
-    <td><image src = 2020-10-13/image/三周目测试.png></td>
+    <td><image src = 2020-10-13_版本/image/三周目成品(1).jpg></td>
+    <td><image src = 2020-10-13_版本/image/三周目成品(2).jpg></td>
+    <td><image src = 2020-10-13_版本/image/三周目测试.png></td>
 </table>
 
 ### 2020-10-21版本
 
 [红豆](https://oshwhub.com/red_bean)和烂尾侠制作的2020-10-21成品，基本功能测试OK
 
-![redbean](2020-10-21/image/redbean.jpg)
+![redbean](2020-10-21_版本/image/redbean.jpg)
 
 ### 2020-12-10版本
 
 PCB，待焊接
 
-![JLC打样成品](2020-12-10/image/JLC打样成品.png)
+![JLC打样成品](2020-12-10_版本/image/JLC打样成品.JPG)
 
 
 ## 开源硬件(OSHW)
 
 冰沙主板10x10 是开源硬件
 
-<table><td><img width = 100px height = 100px src = 2020-10-13/image/Oshw-logo.png></td></table>
+<table><td><img width = 100px height = 100px src = 2020-10-13_版本/image/Oshw-logo.png></td></table>
+
 ## Acknowledgments
 
 + The Smoothieboard creators and the [Smoothieware](http://smoothieware.org/) team
@@ -77,5 +78,5 @@ PCB，待焊接
 
 基于冰沙主板v1.1的openpnp系统框图
 
-![openpnp-基于思慕斯主板系统框图-system-overview](2020-10-13/openpnp-基于思慕斯主板系统框图-system-overview.png)
+![openpnp-基于思慕斯主板系统框图-system-overview](2020-10-13_版本/openpnp-基于思慕斯主板系统框图-system-overview.png)
 
