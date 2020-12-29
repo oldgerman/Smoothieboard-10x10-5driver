@@ -68,7 +68,9 @@ Modified according to [Smoothieboard v1.1 5driver](https://www.reprap.org/wiki/S
 
 冰沙主板10x10 是开源硬件
 
-<table><td><img width = 100px height = 100px src = 2020-10-13_版本/image/Oshw-logo.png></td></table>
+<table>
+	<td><img width = 100px height = 100px src = 2020-10-13_版本/image/Oshw-logo.png></td></table>
+
 ## Acknowledgments
 
 + The Smoothieboard creators and the [Smoothieware](http://smoothieware.org/) team
