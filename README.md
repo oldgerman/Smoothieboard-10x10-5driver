@@ -40,9 +40,7 @@ Modified according to [Smoothieboard v1.1 5driver](https://www.reprap.org/wiki/S
 
 ## Pictures
 
-### 2020-10-13 版本之前
-
-我制作的三周目版本
+### 2020-10-13 版本之前的三周目
 
 <table>
     <td><image src = 2020-10-13_版本/image/三周目成品(1).jpg></td>
@@ -58,9 +56,12 @@ Modified according to [Smoothieboard v1.1 5driver](https://www.reprap.org/wiki/S
 
 ### 2020-12-10版本
 
-PCB，待焊接
+其实我把二周目板上的元件搬了个家。。。
 
-![JLC打样成品](2020-12-10_版本/image/JLC打样成品.JPG)
+<table>
+    <td><image src = 2020-12-10_版本/image/2020-12-10版冰沙_成品tp_small.JPG></td>
+    <td><image src = 2020-12-10_版本/image/2020-12-10版冰沙_成品bk_small.JPG></td>
+</table>
 
 
 ## 开源硬件(OSHW)
@@ -68,7 +69,6 @@ PCB，待焊接
 冰沙主板10x10 是开源硬件
 
 <table><td><img width = 100px height = 100px src = 2020-10-13_版本/image/Oshw-logo.png></td></table>
-
 ## Acknowledgments
 
 + The Smoothieboard creators and the [Smoothieware](http://smoothieware.org/) team
